@@ -1,13 +1,13 @@
 ## Hey 👋, I'm [Duy Nguyen!](https://github.com/iampavangandhi/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/huuduynvc)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/huuduynvc)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/matthewdev2011)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/huuduynvc)
 
 ### Glad to see you here! &nbsp; ![]()
 
-I'm a graduate in Software Engineering 🎓 from VNUHCM - University Of Science 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. After more than 2 years working as a backend developer, I have grown valuable experience in designing server-side
-applications with NodeJS/NestJS, ExpressJS, GraphQL and other tech stacks.
+I'm a graduate in Software Engineering 🎓 from VNUHCM - University Of Science 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. After more than 3 years working as a backend developer, I have grown valuable experience in designing server-side
+applications with NodeJS/NestJS, ExpressJS, GraphQL, Solidity, funC and other tech stacks. My true passion lies in blockchain development, specifically in smart contracts. I have hands-on experience working with EVM (Solidity), TON (funC). I am dedicated to building secure, efficient, and innovative smart contracts to drive the future of decentralized applications.
 
 Like My Work?
 
@@ -15,12 +15,12 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, NestJs, Express, <br /> GraphQL, Mongodb, PostgresSQL, Javascript, Typescript, etc.
-- 🚀 &nbsp; I’m currently learning Back End Development.
+- 🛠 &nbsp; I’m currently working with Nodejs, NestJs, Express, <br /> GraphQL, Mongodb, PostgresSQL, Javascript, Typescript, Solidity, funC etc.
+- 🚀 &nbsp; I’m currently learning Back End Development and Blockchain Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/huuduynvc).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: nguyenhuuduynvc@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/huuduynvc/huuduynvc/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/huuduynvc/huuduynvc/blob/master/resume.pdf). (OUT OF DATE)
 
 ### My Absolute Favorites:
 
@@ -38,6 +38,8 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="./nestjs-icon.png" alt="nest"></code>
 <code><img height="27" src="./docker-icon.png" alt="docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="solidity"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="funC"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
