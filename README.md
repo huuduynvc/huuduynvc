@@ -67,7 +67,7 @@ Like My Work?
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
 </details> -->
 
-<details>
+<!-- <details>
   <summary><b>🧑‍🚀 Projects</b></summary>
 
   <br />
@@ -106,22 +106,34 @@ Like My Work?
     </tbody>
   </table>
   <br />
-</details>
- 
-<!-- <details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
-	</ul>	
 </details> -->
+ 
+<details>	
+<summary><b>🧑‍🚀 GitHub Stats</b></summary>
+<p align="center">
+  <a href="https://github.com/huuduynvc?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=huuduynvc&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/huuduynvc?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=huuduynvc&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+  </a>
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@huuduynvc">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=huuduynvc&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+<div align='center' width='100%'>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuduynvc&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/huuduynvc?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=huuduynvc&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
+  </a>
+</div>
+
+</details>
 
 #
 
