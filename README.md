@@ -50,7 +50,7 @@ Like My Work?
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-### Projects Stuffs:
+<!-- ### Projects Stuffs: -->
 
 <!-- <details>
   <summary><b>⚡ Github Stats</b></summary>
@@ -108,8 +108,8 @@ Like My Work?
   <br />
 </details> -->
  
+### GitHub Stats: 
 <details>	
-<summary><b>🧑‍🚀 GitHub Stats</b></summary>
 <p align="center">
   <a href="https://github.com/huuduynvc?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=huuduynvc&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
