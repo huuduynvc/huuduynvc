@@ -18,21 +18,6 @@ I'm passionate about pushing the boundaries of blockchain technology and helping
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Nodejs, NestJs, Express, <br /> GraphQL, Mongodb, PostgresSQL, Javascript, Typescript, Solidity, funC etc.
-- 🚀 &nbsp; I’m currently learning Back End Development and Blockchain Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/huuduynvc).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: nguyenhuuduynvc@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/huuduynvc/huuduynvc/blob/master/resume.pdf). (OUT OF DATE)
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-
 ### Languages and Tools:
 
 <!-- <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
