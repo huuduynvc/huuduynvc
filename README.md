@@ -9,7 +9,7 @@
 With over 4 years of experience in blockchain development, I specialize in building secure and scalable backend systems for decentralized applications (dApps) and smart contracts.
 
 Tech Stack:
-- Blockchain: Solidity | FunC
+- Blockchain: Solidity | FunC | Move
 - Backend: Node.js | NestJS | Python | Go | MongoDB | PostgreSQL
 - Architecture: RESTful APIs | GraphQL | Microservices | WebSocket | gRPC
 - DevOps & Cloud: AWS | GCP | Azure | Kubernetes
