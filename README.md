@@ -6,10 +6,15 @@
 
 ### Glad to see you here! &nbsp; ![]()
 
-I'm a graduate in Software Engineering 🎓 from VNUHCM - University Of Science 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. After more than 3 years working as a backend developer, I have grown valuable experience in designing server-side
-applications with NodeJS/NestJS, ExpressJS, GraphQL, Solidity, funC and other tech stacks. My true passion lies in blockchain development, specifically in smart contracts. I have hands-on experience working with EVM (Solidity), TON (funC). I am dedicated to building secure, efficient, and innovative smart contracts to drive the future of decentralized applications.
+With over 4 years of experience in blockchain development, I specialize in building secure and scalable backend systems for decentralized applications (dApps) and smart contracts.
 
-Like My Work?
+Tech Stack:
+- Blockchain: Solidity | FunC
+- Backend: Node.js | NestJS | Python | Go | MongoDB | PostgreSQL
+- Architecture: RESTful APIs | GraphQL | Microservices | WebSocket | gRPC
+- DevOps & Cloud: AWS | GCP | Azure | Kubernetes
+
+I'm passionate about pushing the boundaries of blockchain technology and helping businesses harness its full potential.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
